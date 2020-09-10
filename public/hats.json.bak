@@ -1,0 +1,43 @@
+{
+    "none": {
+        "displayName": "None"
+    },
+    "foxmaskside": {
+        "displayName": "Fox Mask",
+        "resourceName": "topeng.glb",
+        "scale": {
+            "x": 0.05,
+            "y": 0.05,
+            "z": 0.05
+        },
+        "rotation": {
+            "x": -25,
+            "y": -45,
+            "z": 0
+        },
+        "position": {
+            "x": -0.1,
+            "y": 0.15,
+            "z": 0.25
+        }
+    },
+    "inari": {
+        "displayName": "Fox Mask 2",
+        "resourceName": "out.glb",
+        "scale": {
+            "x": 0.18,
+            "y": 0.18,
+            "z": 0.18
+        },
+        "rotation": {
+            "x": 0,
+            "y": 70,
+            "z": 30
+        },
+        "position": {
+            "x": 0.05,
+            "y": 0,
+            "z": 0.02
+        }
+    }
+}
